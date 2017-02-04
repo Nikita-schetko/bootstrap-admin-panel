@@ -1,6 +1,6 @@
 /*!
  * Start Bootstrap - SB Admin 2 v3.3.7+1 (http://startbootstrap.com/template-overviews/sb-admin-2)
- * Copyright 2013-2016 Start Bootstrap
+ * Copyright 2013-2017 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 body {
@@ -431,4 +431,13 @@ table.dataTable thead .sorting:after {
     border-right-width: 14px;
     border-left-width: 0;
   }
+}
+.panel.panel-default .panel-heading {
+  font-size: 18px;
+}
+.panel.panel-default .panel-heading .fa {
+  margin-right: 5px;
+}
+.panel hr {
+  margin-top: 5px;
 }
